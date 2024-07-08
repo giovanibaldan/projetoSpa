@@ -35,7 +35,7 @@ Desenvolvimento de um projeto de Single-page application transformado e minifica
         </td>
   </table>
 
-<h3 align="left">Demonstração do funciomaneto da página:</h3>
+<h3 align="left">Demonstração do funcionamento da página:</h3>
 <img src="https://github.com/giovanibaldan/projetoSpa/assets/47829957/65358e66-215a-447c-a364-88fdafc736b0"/>
 
 <h3 align="left">Códigos antes da transformação:</h3>
